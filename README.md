@@ -6,10 +6,10 @@
     - user api
     - admin api
 - 적용 해볼 것.
-  - elk
   - spring cloud config
-  - kafka
   - oauth 인증 서버
+  - elk
+  - kafka
   - docker 
   - jenkins 배포서버
   - 쿠버네티스
